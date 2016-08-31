@@ -1,0 +1,169 @@
+.contenedor, .row, .intro, .presentacion, .grupal, .articulos, .nc, .col-4 {
+	width: 100%;
+	max-width: 1200px;
+	margin: auto;
+	margin-top: 30px;
+}
+
+.listas {
+	list-style: none;
+}
+
+.row .presentacion .listas li {
+	float: left;
+}
+
+.row .presentacion .listas li a {
+	padding: 0px 20px;
+	margin-top: -30px;
+	display: block;
+	color: black;
+	font-size: 30px;
+	text-align: center; 
+	font-family: Times New Roman, Arial; 
+	text-decoration: none;
+}
+
+.row .presentacion .listas li a:hover {
+	background: none;
+}
+
+.intro img {
+	width: 700px; 
+}
+
+.grupal img {
+	width: 700px;
+	margin-top: -80px;
+	margin-left: 235px; 
+}
+
+article p {
+	float: both;
+	margin-top: 30px;
+	margin-left: 300px;
+	text-align: center;
+	width: 530px;
+	font-size: 30px;
+
+}
+
+nav {
+	margin-top: -45px;
+	margin-bottom: 25px;
+}
+
+article p {
+	margin-top: -5px;
+}
+
+.division {
+	padding-top: 40px;
+	padding-bottom: 10px;  
+	border-top: .5px solid black;
+	width: 700px;
+}
+
+.division2 {
+	margin-left: 530px;
+	border: 2px solid #B3B3B3;
+	width: 70px;
+}
+
+.contenedor, .cont, header, footer {
+	width: 735px;
+	margin: 0px auto;
+	min-height: 300px;
+	font-family: Arial;
+}
+
+h3 {
+	margin: 30px 0px 10px 10px;
+	font-family: Times New Roman, Arial;
+	font-size: 25px; 
+}
+
+#division {
+	margin-left: 10px;
+	border: 2px solid #000;
+	width: 100px;
+}
+
+.perfil {
+	width: 33.3%;
+	float: left;
+	padding: 5px;
+	position: relative;
+	font-size: 0px;
+}
+
+img {
+	width: 211px;
+}
+
+.texto{
+	font-size: 15px;
+	font-family: Times New Roman, Arial;
+	position: absolute;
+	bottom: 15px;
+	right: 30px;
+	color: white;
+}
+
+.coder-details {
+  margin: 15px auto;
+  border: 1px solid gray;
+  padding: 2%;
+}
+
+.pic {
+	width: 30%;
+	margin: 0 auto;
+}
+
+.pic img {
+	border-radius: 50%;
+}
+
+.detalle {
+	text-align: center;
+	padding: 25px;
+}
+
+.barra {
+	background-color: gray;
+	padding:12px;
+	margin: 5%;
+	color: white;
+}
+
+.grande {
+	width: 75%;
+}
+
+.mediana {
+	width: 50%;
+}
+
+.chica {
+	width: 25%;
+}
+
+.portafolio2 {
+	padding-left: 25px;
+}
+
+p, span {
+	font-family: Times New Roman, Arial;
+	font-size:19px; 
+	text-align: center;
+}
+
+h1 {
+	font-family: Times New Roman, Arial;
+	text-align: center
+}
+
+.habilidades, .portafolio {
+	font-family: Times New Roman, Arial;
+}
